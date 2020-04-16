@@ -1,0 +1,10 @@
+.box {
+  -webkit-transform: rotate(30deg);
+  transform: rotate(30deg);
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  margin: auto;
+  padding: 50px;
+}
+/*# sourceMappingURL=box.css.map */
